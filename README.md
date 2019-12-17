@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my CPIT Final Project
 
 You can use the [editor on GitHub](https://github.com/mohannadsa/fcit.app.project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
