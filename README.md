@@ -46,10 +46,7 @@ From that point what we provide here is an application which help the student wi
 ### Our FCIT APK 
 
 
-
-[GitHub](http://github.com)
-
-[pleas check our apk file](https://github.com/mohannadsa/project.repo.fcitapp.git)
+[App APK Here](https://github.com/mohannadsa/project.repo.fcitapp.git)
 
 
 ### The Design Diagrams
@@ -57,3 +54,9 @@ From that point what we provide here is an application which help the student wi
 ![Design Diagrams](/umlfcit.png)
 
 ### PowerPint Presentation
+
+[Final Demo Presentation](https://drive.google.com/open?id=14N5h1lGXmhFXFK096wNfiDyym0BVRes_)
+
+### PDF Report
+
+[Final PDF Report](https://drive.google.com/open?id=12MTuLe1Uw25rqgcjlkw4hTk2xRmDk6Mq)
