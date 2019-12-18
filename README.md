@@ -45,9 +45,9 @@ From that point what we provide here is an application which help the student wi
 
 ### Our FCIT APK 
 
-https://github.com/mohannadsa/project.repo.fcitapp.git - automatic!
+https://github.com/mohannadsa/project.repo.fcitapp.git
 
-[pleas check our APK app project] (https://github.com/mohannadsa/project.repo.fcitapp.git)
+ (https://github.com/mohannadsa/project.repo.fcitapp.git)
 
 
 ### The Design Diagrams
