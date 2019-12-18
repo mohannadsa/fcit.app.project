@@ -12,10 +12,35 @@ From that point what we provide here is an application which help the student wi
 ## The Team Effort Breakdown 
 
 ```markdown
-1- mohannad
-2- hisham
-3- fisal
-4- saade
+**Android Studio:**
+-  Designing Layout (Activity): Hisham  
+
+ **Implementation the Code:**
+• Splach Screen: Hisham 
+• Guide Map: Hisham 
+• Lost and found: Hisham
+• Important Links: Hisham 
+• Side Menu: Mohannad
+• Materials Screen: Mohannad 
+• Database: Hisham and Mohannad 
+• Login and sign up Screen: Faisal 
+• Feedback and rate App: Faisal
+• Home Screen: Saade 
+• News Screen: Saade 
+
+ **Files:**
+- Cover Slide: Hisham
+- Workflow: Hisham 
+- Proposed Solution: Hisham
+- Abstract: Mohannad
+- Survey: Mohannad
+- GitHup Webpage: Mohannad 
+- Comparing: Hisham and Mohannad 
+- Project Background: Faisal 
+- Project Objective: Faisal
+- Problem Definition: Saade 
+- The tools: Saade 
+- Stakeholder: Saade 
 ```
 
 ### Our FCIT APK 
@@ -28,32 +53,3 @@ pleas check our APK app project [fcit app]
 ![Design Diagrams](/umlfcit.png)
 
 ### PowerPint Presentation
-
- 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohannadsa/fcit.app.project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
