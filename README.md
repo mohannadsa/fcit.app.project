@@ -17,9 +17,9 @@ From that point what we provide here is an application which help the student wi
 
  **Implementation the Code:**
 • Splach Screen: Hisham 
-• Guide Map: Hisham 
 • Lost and found: Hisham
 • Important Links: Hisham 
+• Guide Map: Mohannad 
 • Side Menu: Mohannad
 • Materials Screen: Mohannad 
 • Database: Hisham and Mohannad 
