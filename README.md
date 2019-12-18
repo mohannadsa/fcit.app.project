@@ -25,6 +25,8 @@ pleas check our APK app project [fcit app]
 
 ### The Design Diagrams
 
+![Design Diagrams](/umlfcit.png)
+
 ### PowerPint Presentation
 
  
