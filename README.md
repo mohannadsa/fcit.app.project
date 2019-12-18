@@ -9,8 +9,25 @@ as a student of the faculty of computing and information technology your having 
 From that point what we provide here is an application which help the student with everything related to his experience in the faculty, by providing one reliable source for all information in the faculty. from a map that guide the student around the faculty to a smart schedule which helps the student with his subjects that he has to take, before the announcement for adding and deleting subjects, which will help the student stay in his plan of gradation. Not always wasting time by looking for the information in multiple platforms.
 
 
-## Who Did What 
+## The Team Effort Breakdown 
 
+```markdown
+1- mohannad
+2- hisham
+3- fisal
+4- saade
+```
+
+### Our FCIT APK 
+
+pleas check our APK app project [fcit app]
+
+
+### The Design Diagrams
+
+### PowerPint Presentation
+
+ 
 ```markdown
 Syntax highlighted code block
 
